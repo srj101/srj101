@@ -20,7 +20,7 @@
 </p>
 </br>
 </br>
-</br>
+
 ### Connect with me
 
 [<img align="left" src="https://i.ibb.co/5jP04Lm/58e91965eb97430e819064f5.png" width="35" height="35"/>](https://facebook.com/srj101)
