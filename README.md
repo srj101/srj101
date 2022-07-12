@@ -22,7 +22,7 @@
 
 ### Connect with me
 
-[<img align="left" src="http://assets.stickpng.com/images/58e91965eb97430e819064f5.png" width="35" height="35"/>](https://facebook.com/srj101)
+[<img align="left" src="https://i.ibb.co/5jP04Lm/58e91965eb97430e819064f5.png" width="35" height="35"/>](https://facebook.com/srj101)
 [<img align="left" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="30" height="30"/>](https://www.instagram.com/srjoy01/)
 
 <!---
