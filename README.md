@@ -11,7 +11,7 @@
 <img align="left" height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" style="max-width: 100%;">
 <img align="left" height="35" src="https://www.kojac.nl/tailwind/images/Backend/nodejs.png"> 
 <img align="left" height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
-<img align="left" height="35" src="https://www.consoleconnect.com/wp-content/uploads/2019/07/amazon-web-services-cloud.svg">
+<img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/mongodb-3521676-2945120.png">
 <img align="left" height="35" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png">
 <img align="left" height="35" src="https://www.pngkey.com/png/full/178-1787134_png-file-svg-github-icon-png.png">
 <img align="left" height="35" src="https://cdn.iconscout.com/icon/free/png-256/html-59-225995.png">
