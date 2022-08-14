@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @srj101
+- 👋  Hi, I’m SR Joy
 - 👀  I’m interested in Web Development
 - 🌱  I’m currently learning Everything 😂
 - 💞️  I’m looking to collaborate on Wordpress/PHP/MERN Stack Projects
