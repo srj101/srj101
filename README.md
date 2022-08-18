@@ -1,5 +1,5 @@
 - 👋  Hi, I’m SR Joy
-- 👀  I’m interested in Web Development
+- 👀  I’m a pull stack developer , I pull things off the internet 😂
 - 🌱  I’m currently learning Everything 😂
 - 💞️  I’m looking to collaborate on Wordpress/PHP/MERN Stack Projects
 
