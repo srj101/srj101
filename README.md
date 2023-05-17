@@ -3,6 +3,8 @@
 - 🌱  I’m currently learning Everything 😂
 - 💞️  I’m looking to collaborate on Wordpress/PHP/MERN Stack Projects
 
+⚡ Fun fact: I spend almost 2 hours surfing new things in internet everyday. I love to keep myself updated!!
+
 
 ### Languages and Tools:
 <p>
