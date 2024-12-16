@@ -150,6 +150,7 @@
 - Solved over 300+ problems on codeforces with a contest rating of 889 - 2022
 - Organizer, DIU IoT Club (2023), driving IoT education and outreach.[Link](https://drive.google.com/drive/folders/1-3xhhj-HwATfJujtoHz-2Vc_3lsbL0pK?usp=sharing)
 - Member, DIU HIRL Lab (Health & Informatics Research) & DIU-CPC CLub (Daffodil Computer Programming Club), contributing to impactful studies.
+- CEO & Founder at SLEEKFUSION LTD, UK based company of internation health, beauty and iPhone accessories brand. [Link](https://find-and-update.company-information.service.gov.uk/company/15689815)
 - Selected on Basis National Award Preliminary Round 2022. [Link](https://drive.google.com/file/d/1RzzWtzaHiJBVadj4brh36pnLCJhfbklj/view?usp=sharing)
 - Technical Scholarship for Academic Excellence (Daffodil International University)
 - Active contributor to open-source projects and community events.
