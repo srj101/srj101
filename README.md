@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=srj101)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23fca311.svg?style=for-the-badge&logo=web)](https://srj101.github.io/portfolio-srjoy) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sr-joy)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srj101)
