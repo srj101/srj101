@@ -139,7 +139,6 @@
 ## 🌟 Competitive Programming
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23f77f00.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/srjoy01)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 ---
 
 
@@ -171,6 +170,11 @@
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srj101&layout=compact&theme=radical&langs_count=8&hide=css" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=srj101&theme=dark" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
