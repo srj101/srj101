@@ -173,16 +173,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srj101&layout=compact&theme=radical&langs_count=8&hide=css" alt="Top Languages"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      [![GitHub Streak](https://streak-stats.demolab.com/?user=srj101)](https://git.io/streak-stats)
-      
-    </td>
-  </tr>
 </table>
 
 </div>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 ---
 
 ## 📚 Skills in Action
