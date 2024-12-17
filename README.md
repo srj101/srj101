@@ -139,7 +139,7 @@
 ## 🌟 Competitive Programming
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23f77f00.svg?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/srjoy01)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 ---
 
 
@@ -176,7 +176,7 @@
 </table>
 
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 ## 📚 Skills in Action
