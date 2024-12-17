@@ -175,7 +175,8 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=srj101&theme=radical" alt="GitHub Streak"/>
+      [![GitHub Streak](https://streak-stats.demolab.com/?user=srj101)](https://git.io/streak-stats)
+      
     </td>
   </tr>
 </table>
