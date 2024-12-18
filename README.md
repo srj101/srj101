@@ -190,7 +190,7 @@
 - ⚙️ **DevOps:** Docker, AWS (S3, EC2, Amplify), CI/CD
 - 📱 **Mobile App Development:** React Native
 - 🧠 **AI & ML:** TensorFlow, PyTorch, OpenCV, Pillow etc.
-- ![Google](https://g.dev/srjoy)
+- [Google](https://g.dev/srjoy)
 
 
 
