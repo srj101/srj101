@@ -155,7 +155,6 @@
 - Selected on Basis National Award Preliminary Round 2022. [Link](https://drive.google.com/file/d/1RzzWtzaHiJBVadj4brh36pnLCJhfbklj/view?usp=sharing)
 - Technical Scholarship for Academic Excellence (Daffodil International University)
 - Active contributor to open-source projects and community events.
-- 7+ K.D. in PUBG (LOL)
 
 ---
 
