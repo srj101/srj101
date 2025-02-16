@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=srj101)
-🌐 [Visit My Portfolio](https://portfolio-sr-joys-projects.vercel.app)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23fca311.svg?style=for-the-badge&logo=web)](https://srj101.github.io/portfolio-srjoy) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23fca311.svg?style=for-the-badge&logo=web)](https://portfolio-sr-joys-projects.vercel.app) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230072b1.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sr-joy)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srj101)
 [![Email](https://img.shields.io/badge/Email-%23ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salimreza6835@gmail.com)
