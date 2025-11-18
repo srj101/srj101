@@ -6,10 +6,10 @@
 
 ---
 
-- 👋  Hi, I’m SR Joy
-- 👀  I’m a pull stack developer , I pull things off the internet 😂
-- 🌱  I’m currently learning Everything 😂
-- 💞️  I’m looking to collaborate on React and Next.JS Stack Mobile & Web Projects
+- 👋  Hi, I'm SR Joy
+- 👀  I'm a pull stack developer , I pull things off the internet 😂
+- 🌱  I'm currently learning Everything 😂
+- 💞️  I'm looking to collaborate on React and Next.JS Stack Mobile & Web Projects
 
 ---
 
@@ -45,6 +45,10 @@
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-%2300AC81.svg?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC00.svg?style=flat-square&logo=clickhouse&logoColor=black)
+![Citus](https://img.shields.io/badge/Citus-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Stackgres](https://img.shields.io/badge/Stackgres-%23326CE5.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Signoz](https://img.shields.io/badge/Signoz-%231D4ED8.svg?style=flat-square&logo=signoz&logoColor=white)
 
 ### **Frameworks & Libraries**
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
@@ -71,6 +75,33 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-%230A0A0A.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+![Ingress](https://img.shields.io/badge/Ingress-%23326CE5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Kong](https://img.shields.io/badge/Kong-%23100E0E.svg?style=flat-square&logo=kong&logoColor=white)
+![Varnish](https://img.shields.io/badge/Varnish-%23E9622E.svg?style=flat-square&logo=varnish&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23161F2D.svg?style=flat-square&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat-square&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=flat-square&logo=sonarqube&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230A0A0A.svg?style=flat-square&logo=helm&logoColor=white)
+![Graylog](https://img.shields.io/badge/Graylog-%23FF6600.svg?style=flat-square&logo=graylog&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-%23466BB0.svg?style=flat-square&logo=istio&logoColor=white)
+
+### **ORM**
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat-square&logo=prisma&logoColor=white)
+![Knex](https://img.shields.io/badge/Knex-%23D26B38.svg?style=flat-square&logo=knexjs&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-%2352B0E7.svg?style=flat-square&logo=sequelize&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-%2334495E.svg?style=flat-square&logo=typeorm&logoColor=white)
+
+### **Authentication**
+![Keycloak](https://img.shields.io/badge/Keycloak-%234D4D4D.svg?style=flat-square&logo=keycloak&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-%236C47FF.svg?style=flat-square&logo=clerk&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-%23EB5424.svg?style=flat-square&logo=auth0&logoColor=white)
+![Firebase Auth](https://img.shields.io/badge/Firebase_Auth-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 
 ### **Mobile App Development**
 ![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
@@ -185,7 +216,7 @@
 
 - 🌐 **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Material-UI, ShadCN/UI etc.
 - 🛠️ **Backend:** Node.js, Django, Flask, Laravel, Firebase, Supabase, Streamlit, Next.js, GRPC, TRPC, GraphQL/REST API
-- ⚙️ **DevOps:** Docker, AWS (S3, EC2, Amplify), CI/CD
+- ⚙️ **DevOps:** Docker, AWS (S3, EC2, Amplify), CI/CD, Kubernetes, Prometheus, Grafana, Jenkins, SonarQube, Helm, Istio
 - 📱 **Mobile App Development:** React Native
 - 🧠 **AI & ML:** TensorFlow, PyTorch, OpenCV, Pillow etc.
 - [Google](https://g.dev/srjoy)
@@ -198,7 +229,7 @@
 🌐 [Visit My Portfolio](https://portfolio-sr-joys-projects.vercel.app)  
 🤝 [Connect on LinkedIn](https://linkedin.com/in/sr-joy)  
 
-Let’s collaborate and build something extraordinary together!
+Let's collaborate and build something extraordinary together!
 
 <!---
 srj101/srj101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
